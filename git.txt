@@ -23,3 +23,5 @@ git add FILENAME
 commit the file
 git commit -m "Message"
 
+Im confused by this thing right here
+
