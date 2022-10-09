@@ -19,3 +19,7 @@ git status
 In order to move our file to the staging area and start
 making changes wee need the command
 git add FILENAME
+
+commit the file
+git add-m "Message"
+
