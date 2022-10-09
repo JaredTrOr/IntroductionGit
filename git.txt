@@ -1,0 +1,21 @@
+COMMANDS
+
+CREATE A LOCAL DIRECTORY
+git init
+
+SEE HIDDEN FILES
+dir /a:h
+
+CHANGE THE NAME OF A FILE
+ren old.txt new.txt
+
+MOVE THE FILE TO AN STAGING AREA WHICH IS AN INTERMIDIATE PLACE
+WHERE YOU CAN PICK AND CHOOSE WHICH FILES INSIDE YOU ARE WORKING DIRECTORY
+THAT YOU WANT TO COMMIT
+
+SEE STAGING AREA
+git status
+
+In order to move our file to the staging area and start
+making changes wee need the command
+git add FILENAME
