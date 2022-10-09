@@ -20,8 +20,16 @@ In order to move our file to the staging area and start
 making changes wee need the command
 git add FILENAME
 
-commit the file
+COMMIT THE FILE
 git commit -m "Message"
 
-Im confused by this thing right here
+SEE THE CHANGES MADE WITH DIFF
+git diff filename
+
+RESTORE THE FILE TO THE LAST COMMIT
+git chechout filename
+
+
+
+
 
